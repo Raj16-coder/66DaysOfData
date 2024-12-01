@@ -1,0 +1,6 @@
+Today, I learned about Simple Linear Regression! 📈
+
+🔍 Key Takeaways:
+1️⃣ It models the relationship between one independent variable (X) and one dependent variable (Y).
+2️⃣ The goal is to find the best-fit line: Y = mX + c, where m is the slope and c is the intercept.
+3️⃣ Applied it to predict outcomes and evaluate model performance (e.g., using Mean Squared Error).
