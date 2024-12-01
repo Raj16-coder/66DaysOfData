@@ -1,0 +1,4 @@
+ What I learned:
+1️⃣ Loaded and understood the dataset (shape, structure, and types).
+2️⃣ Cleaned missing and duplicate data for consistency.
+3️⃣ Converted and transformed data types to ensure proper analysis.
