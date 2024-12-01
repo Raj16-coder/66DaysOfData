@@ -1,4 +1,0 @@
- What I learned:
-1️⃣ Univariate Analysis: Examining one variable at a time (e.g., histograms, box plots).
-2️⃣ Bivariate Analysis: Analyzing the relationship between two variables (e.g., scatter plots, correlation).
-3️⃣ Multivariate Analysis: Studying the relationships among three or more variables (e.g., pair plots, heatmaps).
