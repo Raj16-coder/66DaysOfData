@@ -1,0 +1,23 @@
+Python for Machine Learning – Essential Libraries
+
+1. Pandas
+Purpose: Data manipulation and analysis.
+Key Features:
+•	Read/write data from various formats (CSV, Excel, JSON, SQL, etc.).
+•	Handle missing data effectively.
+•	Perform filtering, grouping, and aggregation.
+•	Manipulate time-series data.
+
+2. NumPy
+Purpose: Numerical computation.
+•	Key Features:
+o	Perform vectorized operations (e.g., element-wise addition, multiplication).
+o	Support for linear algebra, random number generation, and Fourier transforms.
+o	Basis for many ML libraries like TensorFlow and PyTorch.
+3. Matplotlib
+Purpose: Data visualization.
+•	Key Features:
+o	Create a wide range of plots (line, scatter, bar, histogram, etc.).
+o	Customize every aspect of the plot (labels, legends, colors, etc.).
+o	Integrate seamlessly with other libraries like Pandas.
+
