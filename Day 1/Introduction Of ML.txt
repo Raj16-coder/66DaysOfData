@@ -1,0 +1,30 @@
+Introduction to Machine Learning
+            Machine Learning (ML) is a subset of artificial intelligence (AI) that involves teaching machines to learn patterns and make decisions based on data.
+Types of Machine Learning
+1.	Supervised Learning
+
+•	Definition: The model is trained on labeled data, where the input-output relationship is known
+•	Goal: Predict the output (target variable) for new, unseen inputs.
+•	Examples:
+o	Classification (e.g., email spam detection).
+o	Regression (e.g., predicting house prices).
+2. Unsupervised Learning
+•	Definition: The model is trained on unlabeled data, identifying patterns, clusters, or structure in the data.
+•	Goal: Explore data and discover underlying relationships without predefined labels.
+•	Examples:
+o	Clustering (e.g., customer segmentation).
+o	Dimensionality reduction (e.g., reducing features for visualization).
+3. Reinforcement Learning
+•	Definition: The model learns through trial and error, receiving rewards or penalties for actions to achieve a specific objective.
+•	Goal: Develop a policy that maximizes cumulative rewards in a dynamic environment.
+•	Examples:
+o	Game playing (e.g., AlphaGo).
+o	Robotics (e.g., teaching a robot to walk).
+
+Real-World Applications of Machine Learning
+1.	Healthcare
+2.	 Finance
+3.	Transportation
+4.	Entertainment and Media
+5.	Agriculture
+                                
