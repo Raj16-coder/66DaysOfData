@@ -1,0 +1,24 @@
+Data Cleaning and Preprocessing: Handling Missing Data and Duplicates
+
+1. Handling Missing Data
+Missing data can arise from various reasons, such as data entry errors, sensor failures, or incomplete records. 
+Methods to Handle Missing Data
+(a) Removing Missing Data
+•	When to use:
+o	If the number of missing values is small compared to the dataset size.
+o	When the missing values do not carry significant information.
+(b) Imputing Missing Values
+•	When to use:
+o	If the dataset has a significant amount of missing data.
+o	When missing values can be estimated based on other data.
+•	
+Techniques:
+•	Mean/Median/Mode Imputation:
+o	Replace missing values with the mean (for numerical), median, or mode (for categorical).
+2. Handling Duplicates
+Duplicates occur when the same data point appears more than once in the dataset. 
+Removing Duplicates
+•	When to use:
+o	If duplicates are genuinely redundant and do not add value to the analysis.
+
+
