@@ -1,0 +1,3 @@
+Key Takeaways:
+1️⃣ Ridge Regression: Adds an L2 regularization term to reduce overfitting by penalizing large coefficients.
+2️⃣ Lasso Regression: Adds an L1 regularization term, which can shrink coefficients to zero, making it useful for feature selection.
