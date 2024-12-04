@@ -1,0 +1,3 @@
+Today, I explored Multiple Linear Regression!
+🔍 Key Takeaways:
+1️⃣ It models the relationship between one dependent variable and multiple independent variables.
